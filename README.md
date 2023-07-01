@@ -1,4 +1,1 @@
--I’m @SolonHit55, Brazilian
--I want to learn programming and also learn to like it, I want to deepen myself in this area.
--Currently learning Python 3 and JavaScript
--I am interested in working for social networks, digital banks, tools software and games.
+
